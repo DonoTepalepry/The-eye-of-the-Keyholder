@@ -15,7 +15,7 @@ This project uses an **Arduino Leonardo** to simulate holding down a specific ke
 - Arduino Leonardo  
 - 10k potentiometer  
 - Toggle switch  
-- 0.96" OLED display (I2C)  
+- 0.96" OLED display 
 
 ---
 
